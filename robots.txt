@@ -1,0 +1,6 @@
+# robots.txt -------------------------------
+# If you can read this, my site is now no
+# longer with GitHub pages but is still at
+# www.earnestma.xyz and earnestma.xyz :)
+User-agent: *
+Disallow: /
