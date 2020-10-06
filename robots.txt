@@ -1,0 +1,8 @@
+# robots.txt
+User-agent: *
+Disallow: /go/
+Disallow: /go/*
+Disallow: /zoom/
+Disallow: /zoom/*
+Disallow: /personal/
+Sitemap: https://earnestma.xyz/sitemap.xml
